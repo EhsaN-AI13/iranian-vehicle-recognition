@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset
+train/
+test/
+train.zip
+test.zip
+Trained Weights-*.zip
+
+# Test images
+test_images/
+test_car.jpg
+
+# Temporary files
+temp_image.jpg
+
+# Model checkpoints
+models/checkpoint.pth
+models/finetune_checkpoint.pth
+models/best_model.pth

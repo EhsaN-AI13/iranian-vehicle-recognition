@@ -1,0 +1,15 @@
+fastapi==0.141.1
+uvicorn==0.54.0
+python-multipart==0.0.32
+
+torch==2.5.1
+torchvision==0.20.1
+
+numpy==2.5.3
+pillow==12.3.0
+
+scikit-learn==1.9.1
+matplotlib==3.11.2
+
+pytest==9.1.1
+httpx2==2.13.1

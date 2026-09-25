@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+train/
+test/
+test_images/
+
+train.zip
+test.zip
+Trained Weights-*.zip
+
+
+.git/
+.github/
+
+temp_image.jpg
