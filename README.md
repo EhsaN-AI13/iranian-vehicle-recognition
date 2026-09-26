@@ -11,6 +11,12 @@ https://iranian-vehicle-recognition.onrender.com
 
 Upload a vehicle image and the model returns the top predicted classes with confidence scores.
 
+### 📸 Live Demo Screenshot
+
+The deployed application successfully recognizes a Peugeot 405 from an uploaded image:
+
+![Iranian Vehicle Recognition - Live Demo](demo.png)
+
 ## 🎯 Project Overview
 
 The goal is to build a practical computer vision pipeline capable of classifying Iranian vehicles across **29 classes**.
